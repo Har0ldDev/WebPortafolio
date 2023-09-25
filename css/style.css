@@ -136,6 +136,11 @@ header a:hover {
     margin-bottom: 100px;
     justify-content: center;
 }
+#SecProyectos h1{
+    color: #ff2a6d;
+    text-align: center;
+    text-shadow: 0 0 4px #ff2a6d;
+}
 #SecProyectos h3{
     color:#05d9e8;
     text-transform: uppercase;
